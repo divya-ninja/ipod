@@ -1,0 +1,76 @@
+.Keypad{
+    width: 210px;
+    height: auto;
+    margin: auto;
+    padding: 15px;
+    overflow: hidden;
+    position: relative;
+}
+
+/* styling for rotating wheel */
+#Navigator{
+    width: 150px;
+    height: 150px;
+    background: white;
+    margin: 10px auto;
+    overflow: hidden;
+    /*radius*/
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    border-radius: 100%;
+    /*shadow*/
+    -webkit-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.4);
+    -moz-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.4);
+    box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.4);   
+}
+
+/* styling for menu button */
+.menu{
+    position: absolute;
+    left: 95px;
+    top: 40px;
+    font-size: 1em;
+    color: rgb(202, 208, 214);
+}
+
+/* styling for backward button */
+.backward{
+    width: 25px;
+    position: absolute;
+    top: 95px;
+    left: 55px;
+    color: rgb(202, 208, 214);
+}
+
+/* styling for forward button */
+.forward{
+    width: 25px;
+    position: absolute;
+    top: 95px;
+    left: 160px;
+    color: rgb(202, 208, 214);
+}
+
+/* styling for select button */
+#select{
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    background: #f0f0f0;
+    top: 70px;
+    left: 90px;
+    border-radius: 100%;
+    /*shadow*/
+    -webkit-box-shadow: inset 0px -2px 14px -1px rgba(0,0,0,0.3);
+       -moz-box-shadow: inset 0px -2px 14px -1px rgba(0,0,0,0.3);
+            box-shadow: inset 0px -2px 14px -1px rgba(0,0,0,0.3);
+  }
+
+  /* styling for play/pause button */
+  .play-pause{
+    width: 25px;
+    position: absolute;
+    top: 145px;
+    left: 115px;
+    color: rgb(202, 208, 214);
+  }

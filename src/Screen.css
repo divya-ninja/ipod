@@ -1,0 +1,65 @@
+/* styling of screen without sidemenu */
+.screen{
+    margin: auto;
+    width: 95%;
+    margin-top: 15px;
+    height: 45%;
+    border: 3px solid black;
+    border-radius: 0.5em;
+    background-image: url("./images/ipod-background.jpg");
+}
+
+/* side-menu styling */
+.side-menu{
+    width: 50%;
+    height: 100%;
+    background-color: white;
+}
+
+/* new component will occupy whole screen */
+.new-component{
+    width: 100%;
+    height: 100%;
+    border: none;
+    background-color: white;
+}
+
+.music{
+    background-image: url("./images/ipod-background.jpg");
+    height: 100%;
+}
+
+/* styling of sidemenu elements */
+.btn{
+    width: 90%;
+    height: 15%;
+    margin: 3%;
+    text-align: left;
+    font-weight: bold;
+    border: none;
+    background-color: white;
+}
+
+.btn:hover{
+    background-color: lightskyblue;
+}
+
+p{
+    padding: 10% 0% 0% 10%;
+    margin: 0%;
+    font-size: large;
+    font-weight: bold;
+}
+
+/* element selected */
+.select{
+    background-color: lightskyblue;
+}
+
+/* element unselected */
+.unselect{
+    background-color: white;
+}
+
+
+

@@ -1,0 +1,11 @@
+/* styling for ipod container */
+.ipod{
+    display: block;
+    margin: auto;
+    margin-top: 8rem;
+    width: 250px;
+    height: 400px;
+    border-radius: 2em;
+    padding: 0.5rem;
+    background-color: rgb(202, 208, 214);
+}

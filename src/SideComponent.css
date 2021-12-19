@@ -1,0 +1,45 @@
+.side-component{
+    width: 100%;
+    height: 100%;
+}
+
+h3{
+    margin: 0;
+    text-align: center;
+}
+
+/* coverflow styling */
+#coverflow{
+    background-image: url("./images/coverflow-image.jpg");
+}
+
+#coverflow-text{
+    padding-top: 20%;
+    color: white;
+    font-size: 2.5rem;
+}
+
+/* games component styling */
+#games{
+    background-image: url("./images/games-image.jpg");
+}
+
+.games-icon{
+    font-size: 5rem;
+    margin: 15% 0% 2% 30%;
+    color: yellowgreen;
+}
+
+#games-text{
+    color: yellowgreen;
+}
+
+/* settings component styling */
+#settings{
+    background-image: url("./images/settings-image.jpg");
+}
+
+#settings-text{
+    padding-top: 30%;
+    padding-left: 15%;
+}

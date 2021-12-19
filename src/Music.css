@@ -1,0 +1,39 @@
+/* styling for all-songs component */
+.details{
+    padding: 10% 0%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.song-details{
+    padding-top: 10%;
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+
+.song-image{
+    width: 100px;
+    height: 100px;
+    background-image: url("./images/song-image.jpg");
+}
+
+.audio{
+    width: 100%;
+    height: 2rem;
+    background-color: whitesmoke;
+}
+
+/* ------------------styling for Artists component------------------ */
+#artists{
+    width: 100%;
+    height: 100%;
+    background-image: url("./images/artists-image.jpg");
+}
+
+
+/* styling for album component */
+#albums{
+    width: 100%;
+    height: 100%;
+    background-image: url("./images/albums-image.jpg");
+}
