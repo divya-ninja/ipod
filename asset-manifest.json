@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ipod/static/css/main.d881efda.css",
+    "main.js": "/ipod/static/js/main.e48ecd4d.js",
+    "static/js/787.99fbc770.chunk.js": "/ipod/static/js/787.99fbc770.chunk.js",
+    "static/media/bts-black-swan.mp3": "/ipod/static/media/bts-black-swan.d6fe906bf98a42726284.mp3",
+    "static/media/artists-image.jpg": "/ipod/static/media/artists-image.8e832d8ec64ba6859406.jpg",
+    "static/media/coverflow-image.jpg": "/ipod/static/media/coverflow-image.07d5f7a7e90839e5cfe6.jpg",
+    "static/media/settings-image.jpg": "/ipod/static/media/settings-image.ecd23c7a65c0860553f1.jpg",
+    "static/media/ipod-background.jpg": "/ipod/static/media/ipod-background.2b96d3058c86853c7fc1.jpg",
+    "static/media/games-image.jpg": "/ipod/static/media/games-image.f7c5bb8507ac098e1127.jpg",
+    "index.html": "/ipod/index.html",
+    "main.d881efda.css.map": "/ipod/static/css/main.d881efda.css.map",
+    "main.e48ecd4d.js.map": "/ipod/static/js/main.e48ecd4d.js.map",
+    "787.99fbc770.chunk.js.map": "/ipod/static/js/787.99fbc770.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d881efda.css",
+    "static/js/main.e48ecd4d.js"
+  ]
+}
