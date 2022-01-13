@@ -1,3 +1,8 @@
+# iPod App
+## An ipod like web app using React and ZingTouch(gesture detection library).
+### link https://divya-ninja.github.io/ipod/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
